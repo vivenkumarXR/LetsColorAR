@@ -1,19 +1,13 @@
 {
     "m_SelectedDeviceId": "16940183",
     "m_SelectedPackage": {
-        "deviceId": "",
-        "name": "",
-        "processId": 0,
+        "deviceId": "16940183",
+        "name": "com.viven.LetsColorAR",
+        "processId": 15196,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
-        {
-            "deviceId": "16940183",
-            "name": "com.viven.LetsColorAR",
-            "processId": 17429,
-            "exited": true
-        },
         {
             "deviceId": "16940183",
             "name": "com.viven.LetsColorAR",
@@ -31,6 +25,24 @@
             "name": "com.viven.LetsColorAR",
             "processId": 14904,
             "exited": true
+        },
+        {
+            "deviceId": "16940183",
+            "name": "com.viven.LetsColorAR",
+            "processId": 15889,
+            "exited": true
+        },
+        {
+            "deviceId": "16940183",
+            "name": "com.oneplus.dialer",
+            "processId": 15892,
+            "exited": false
+        },
+        {
+            "deviceId": "16940183",
+            "name": "com.viven.LetsColorAR",
+            "processId": 15196,
+            "exited": false
         }
     ],
     "m_Tags": {

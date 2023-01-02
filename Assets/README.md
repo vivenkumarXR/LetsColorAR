@@ -1,3 +1,1 @@
-# FREQUENCY OF A.C​
-
-K-12
+# Let's  Color AR
